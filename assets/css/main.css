@@ -11,6 +11,12 @@
   	/*width="460" height="345"*/
   	height: 300px !important;
   }
+  .glyphicon-time{
+  	font-size: 50px;
+  }
+  .txt-20{
+  	font-size: 20px;
+  }
 .inline{
 	display: inline;
 }
