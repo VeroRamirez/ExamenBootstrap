@@ -20,6 +20,28 @@
 .inline{
 	display: inline;
 }
+.bold{
+	font-weight: bold;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: pink;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-default{
+	background-color: black;
+	color:white;
+	border-color: black;
+}
+.btn-default:hover,.btn-default:focus,.btn-default:active,.btn-default:visited {
+    color: white;
+    background-color: black;
+    border-color: black;
+}
 .delante{
 	z-index: 10;
 }
